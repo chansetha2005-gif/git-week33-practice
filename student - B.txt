@@ -1,0 +1,4 @@
+Name: CHAN SETHA
+Class: Web 2027B
+Learning Git: Yes
+Favorite Git Command: git pull
