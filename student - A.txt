@@ -1,0 +1,4 @@
+Name: Dalin Dem
+Class: Web Programming
+Learning Git: Yes
+Favorite Git Command: git commit
